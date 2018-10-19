@@ -1,2 +1,2 @@
 # thankyou github
-<My work is not complete without Github.
+My work is not complete without Github.
